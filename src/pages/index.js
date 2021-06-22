@@ -30,7 +30,7 @@ export default (() => {
 					asdfas f
 				</Text>
 				<Text font="--base">
-					My name is David R. Moore, born and raised in France, worked as a professional photographer and videographer for more than 10 years, awarded the CDS Documentary Essay Prize in 2018 and Best Photographer of The Year 2019 by Sony World Photography Awards.
+					My name is D afsdf asavid R. Moore, born and raised in France, worked as a professional photographer and videographer for more than 10 years, awarded the CDS Documentary Essay Prize in 2018 and Best Photographer of The Year 2019 by Sony World Photography Awards.
 				</Text>
 			</Box>
 		</Section>
