@@ -24,10 +24,10 @@ export default (() => {
 					text-transform="uppercase"
 					margin="6px 0"
 				>
-					ZZZZZZZZZZ
+					sdfas dfas d
 				</Text>
 				<Text as="h2" font="--headline2" margin="0 0 12px 0">
-					Hey I’m David
+					asdfas f
 				</Text>
 				<Text font="--base">
 					My name is David R. Moore, born and raised in France, worked as a professional photographer and videographer for more than 10 years, awarded the CDS Documentary Essay Prize in 2018 and Best Photographer of The Year 2019 by Sony World Photography Awards.
