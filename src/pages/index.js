@@ -24,7 +24,7 @@ export default (() => {
 					text-transform="uppercase"
 					margin="6px 0"
 				>
-					About me
+					sdfas dfas d
 				</Text>
 				<Text as="h2" font="--headline2" margin="0 0 12px 0">
 					Hey I’m David
